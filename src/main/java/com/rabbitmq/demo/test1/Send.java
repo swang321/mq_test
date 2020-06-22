@@ -10,7 +10,7 @@ import java.util.concurrent.TimeoutException;
 /**
  * @Author: whh
  * @Date: 2020/6/22 11:45
- * @Description:
+ * @Description:   简单工作队列
  */
 public class Send {
 
